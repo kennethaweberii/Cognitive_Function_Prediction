@@ -27,7 +27,7 @@ This model was developed using Nilearn (https://nilearn.github.io) and Sklearn (
 3. For the resting state functional connectivity features, the preprocessed resting state timeseries 4D images should be in MNI152 2 mm<sup>3</sup> space.
 4. For the resting state frequency domain and graph measures features, the 3D images should be in MNI152 2 mm<sup>3</sup> space.
 	* These images were created using functions available in AFNI (https://afni.nimh.nih.gov/)
-5. For the task-evoked features (Working Memory, Category-Specific Representations, Gambling, Language Processing, Social Cognition, Relational Processing, and Emotion Processing), the images (3D) should be in MNI152 2 mm <sup>3</sup> space.
+5. For the task-evoked features (Working Memory, Category-Specific Representations, Gambling, Language Processing, Social Cognition, Relational Processing, and Emotion Processing), the images (3D) should be in MNI152 2 mm<sup>3</sup> space.
 
 *FMRIB58 1 mm<sup>3</sup> space and MNI152 2 mm<sup>3</sup> space template images availabled in FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
 
