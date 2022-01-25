@@ -29,7 +29,7 @@ This model was developed using Nilearn (https://nilearn.github.io) and Sklearn (
 	* These images were created using functions available in AFNI (https://afni.nimh.nih.gov/)
 5. For the task-evoked features (Working Memory, Category-Specific Representations, Gambling, Language Processing, Social Cognition, Relational Processing, and Emotion Processing), the images (3D) should be in MNI152 2 mm<sup>3</sup> space.
 
-*FMRIB58 1 mm<sup>3</sup> space and MNI152 2 mm<sup>3</sup> space template images availabled in FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
+#### FMRIB58 1 mm<sup>3</sup> space and MNI152 2 mm<sup>3</sup> space template images availabled in FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
 
 ### Citing Cognitive Function Prediction Model
 
