@@ -1,0 +1,15 @@
+1,visual
+2,somatomotor
+3,dorsal_attention
+4,ventral_attention
+5,limbic
+6,frontoparietal
+7,default
+8,thalamus
+9,caudate
+10,putamen
+11,globus_pallidus
+12,hippocampus
+13,amygdala
+14,cerebellum
+15,brainstem
