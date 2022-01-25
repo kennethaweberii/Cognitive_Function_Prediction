@@ -4,7 +4,7 @@
 <img src="https://github.com/kennethaweberii/Cognitive_Function_Prediction/blob/main/cognitive_function_prediction.jpg" width="750">
 </p>
 
-This model was developed using Nilearn (https://nilearn.github.io) and Sklearn (https://scikit-learn.org/)
+#### This model was developed using Nilearn (https://nilearn.github.io) and Sklearn (https://scikit-learn.org/)
 
 ### Installation
 
