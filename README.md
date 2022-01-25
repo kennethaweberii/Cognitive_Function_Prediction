@@ -22,7 +22,7 @@
 
 ### Image Formatting Requirements
 
-1. For the gray matter featuers, the Freesurfer gray matter features (aseg.stats, lh.aparc.stats, and rh.aparc.stats) need to be in single csv file. Use convert_freesurfer_stats_to_csv.py to convert these files to the correct format.
+1. For the gray matter features, the Freesurfer gray matter features (aseg.stats, lh.aparc.stats, and rh.aparc.stats) need to be in single csv file. Use convert_freesurfer_stats_to_csv.py to convert these files to the correct format.
 2. For the white matter features, the fractional anisotropy 3D image should be in FMRIB58 1 mm<sup>3</sup> space.
 3. For the resting state functional connectivity features, the preprocessed resting state timeseries 4D images should be in MNI152 2 mm<sup>3</sup> space.
 4. For the resting state frequency domain and graph measures features, the 3D images should be in MNI152 2 mm<sup>3</sup> space.
